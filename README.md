@@ -8,7 +8,7 @@ Here are the valid input for the expression
 - Numbers
 - Variables such as **x or y**
 - Operator such as **+ - * /**
-- Comparison such as **< > =**
+- Comparison(Relop) such as **< > =**
   
 ## Lexical Analysis
 Lexical analysis is the first stage of compiler design that analyses and breaks down source code into its fundamental components called tokens. 
